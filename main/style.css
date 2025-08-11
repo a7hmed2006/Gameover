@@ -1,0 +1,387 @@
+.right{
+    border-style: outset;
+    border-width: 3px;
+    border-radius: 10px;
+    border-spacing: 2px;
+    width: 30%;
+    box-sizing: border-box;
+    border-color: black;
+    padding: 10px;
+    padding-right: 20px;
+    font-size: medium;
+    margin: 25px;
+    margin-left: 35%;
+    margin-top: 200px;
+    background-color: white;
+}
+
+html{
+    font-family: monospace;
+    font-size: larger;
+    background: linear-gradient(rgba(14, 178, 184, 0.26), rgba(0, 0, 0, 0));
+    background-attachment: fixed;
+}
+ 
+h1{
+    font-family: cursive;
+    color: rgba(255, 0, 0, 0.712);
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-bottom: 50px;
+    margin-right: 750px;    
+    float: left;
+    text-shadow: 0px 0px 7px rgba(0, 255, 255, 0.788), -5px -5px 10px rgb(1, 86, 136);
+    box-shadow: 7px 4px 5px black;
+}
+button{
+    margin-left: 100px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: 150ms ease;
+}
+
+/* .oo{
+    /* margin-top: 100px; 
+ */
+
+.son{
+
+    position: relative;
+    top: 1px;
+    bottom: 10px;
+    right: 100px;
+    left: 250px;
+    margin-left: 100px;
+  
+}
+
+.box{
+
+
+    position: relative;
+    top: 1px;
+    bottom: 10px;
+    right: 50px;
+    left: 350px;
+    /* margin-left: 100px;
+    margin-right: 80px;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    float: left; */
+}
+
+.lat{
+
+
+    position: relative;
+    top: 1px;
+    bottom: 10px;
+    right: 20px;
+    left: 450px;
+    /* margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    float: left; */
+}
+
+button:hover{
+    background-color: lightblue;
+    scale: 1.1;
+} 
+button:active{
+    background-color: rgb(228, 228, 228);
+}
+
+.phone{
+    position: relative;
+    top: 1px;
+    bottom: 10px;
+    right: 20px;
+    left: 550px;
+    /* margin-right: 200px; */
+/* 
+    margin-left: 100px;
+    margin-right: 1px;
+    margin-top: 70px;
+    margin-bottom: 60px; */
+}
+.image{
+    /* border: 3px solid rgba(0, 0, 0, 0.678); */
+    /* border-style: dashed; */
+    margin: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding: 2px;
+    padding-right: 1px;
+    border-radius: 20px;
+    align-items: center;
+}
+.ps{
+    float: left;
+}
+/* first image the new ps */
+.ps4u{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 80px;
+    margin-left: 25%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    float: left;
+    transition: 150ms ease;
+}
+.ps4u:hover{
+    scale: 1.1;
+}
+ 
+
+.ps4n{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 150px;
+    margin-left: 60%;
+    margin-right: 100%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    transition: 150ms ease;
+ 
+}
+.ps4n:hover{
+    scale: 1.1;
+}
+.ps5n{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 1px;
+    margin-left: 25%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    float: left;
+    transition: 150ms ease;
+     
+}
+.ps5n:hover{
+    scale: 1.1;
+}
+.ps5u{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 130px;
+    margin-left: 60%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    transition: 150ms ease;
+}
+.ps5u:hover{
+    scale: 1.1;
+}
+.ps5p{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 1px;
+    margin-left: 43%;
+    padding: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    transition: 150ms ease;
+     
+    /* float: left; */
+}
+.ps5p:hover{
+    scale: 1.1;
+}
+/* .ps3u{
+    width: 400px;
+    height: 400px;
+    border: 1px solid;
+     
+} */
+
+.x360{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 80px;
+    margin-left: 25%;
+    padding: 20px;
+    padding-left: 70px;
+    padding-bottom: 40px;
+    padding-right: 1px;
+    border-radius: 20px;
+    float: left;
+    transition: 150ms ease;
+}
+.x360:hover{
+    scale: 1.1;
+}
+.xone{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 150px;
+    margin-left: 60%;
+    margin-right: 100%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    padding-right: 3px;
+    border-radius: 20px;
+    transition: 150ms ease;
+}
+.xone:hover{
+    scale: 1.1;
+}
+.xxs{
+
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 1px;
+    margin-left: 25%;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    border-radius: 20px;
+    float: left;
+    transition: 150ms ease;
+}
+.xxs:hover{
+    scale: 1.1;
+}
+.xs{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 150px;
+    margin-left: 60%;
+    margin-right: 100%;
+    padding: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    padding-right: 10px;
+    border-radius: 20px;
+    transition: 150ms ease;
+}
+.xs:hover{
+    scale: 1.1;
+}
+.asusa15{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 1px;
+    margin-left: 25%;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 170px;
+    padding-right: 0px;
+    border-radius: 20px;
+    float: left;
+    transition: 150ms ease;
+}
+.asusa15:hover{
+    scale: 1.1;
+}
+.nitrov15{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 150px;
+    margin-top: 5px;
+    margin-left: 60%;
+    margin-right: 90px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 170px;
+    padding-right: 1px;
+    border-radius: 20px;
+    transition: 150ms ease;
+}
+.nitrov15:hover{
+    scale: 1.1;
+}
+.lenovoloq{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 150px;
+    margin-top: 1px;
+    margin-left: 25%;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 170px;
+    padding-right: 0px;
+    border-radius: 20px;
+    float: left;
+    transition: 150ms ease;
+}
+.lenovoloq:hover{
+    scale: 1.1;
+}
+
+.asusf15{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 150px;
+    margin-top: 5px;
+    margin-left: 60%;
+    margin-right: 90px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 170px;
+    padding-right: 1px;
+    border-radius: 20px;
+    transition: 150ms ease;
+}
+.asusf15:hover{
+    scale: 1.1;
+}
+.hp15{
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 100px;
+    margin-bottom: 150px;
+    margin-top: 5px;
+    margin-left: 43%;
+    margin-right: 90px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-bottom: 170px;
+    padding-right: 1px;
+    border-radius: 20px;
+    transition: 150ms ease;
+}
+.hp15:hover{
+    scale: 1.1;
+} 
+ 
